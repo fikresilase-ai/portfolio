@@ -1,0 +1,21 @@
+# Ignore all files in the parent directory
+../
+
+# Ignore common system files and directories
+AppData/
+.anaconda/
+.android/
+.cache/
+.conda/
+.continuum/
+.dotnet/
+.pyenv/
+.jupyter/
+.keras/
+.matplotlib/
+
+# Ignore large installers and downloads
+*.exe
+*.zip
+*.rar
+*.crdownload
