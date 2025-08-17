@@ -4,3 +4,4 @@
 - Data tool test: [Pandas Installed](pandas_test.py) 
 - Basic data analysis: [Data Summary](data_analysis.py) 
 - ML tool test: [Scikit-learn Installed](ml_test.py)  
+- Simple ML model: [Linear Regression](linear_regression.py)  
